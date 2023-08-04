@@ -20,8 +20,7 @@ extensions = [
     "ablog",
     'sphinx.ext.intersphinx',
     "sphinx_design",
-    "sphinxext.opengraph",
-    "sphinx_revealjs",
+    "sphinxext.opengraph"
 ]
 
 # "sphinxext.rediraffe",
