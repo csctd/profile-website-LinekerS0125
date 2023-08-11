@@ -49,8 +49,8 @@ with open ('info.yml','r') as f:
 
 
 html_theme_options = {
-  "github_url": "https://github.com/username/",
-  "twitter_url": "https://twitter.com/username",
+  "github_url": "https://github.com/LinekerS0125/",
+  "instagram_url": "https://instagram.com/fancy_pizza125",
   "search_bar_text": "Search this site...",
 #   "navbar_end": ["search-field.html"],
 }
