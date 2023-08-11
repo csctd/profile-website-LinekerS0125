@@ -40,5 +40,19 @@ Run `nox`
    ```shell
    nox -s docs
    ```
-
-this should install a Sphinx environment and build the site, putting the output files in `_build/html`. -->
+ @@ -42,3 +42,15 @@ Run `nox`
+    ```
+ 
+ this should install a Sphinx environment and build the site, putting the output files in `_build/html`. -->
++
++# Profile Website
++
++Welcome to my profile webiste, students of URI!
++<!-- enter your target audience after the comma above -->
++
++Since you're here, you might be: 
++- trying to learn more about me
++- exploring my website design choices 
++- or you clouda just clicked on a random site 
++<!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
++
