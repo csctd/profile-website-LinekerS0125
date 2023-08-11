@@ -55,6 +55,8 @@ html_theme_options = {
 #   "navbar_end": ["search-field.html"],
 }
 
+<i class="fa-solid fa-camera"></i>
+
 # html_favicon = "_static/favicon.ico"
 #  change this to change the site title
 html_title = project
