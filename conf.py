@@ -52,10 +52,11 @@ html_theme_options = {
   "github_url": "https://github.com/LinekerS0125/",
   "instagram_url": "https://instagram.com/fancy_pizza125",
   "search_bar_text": "Search this site...",
-#   "navbar_end": ["search-field.html"],
 }
-
 <i class="fa-solid fa-camera"></i>
+
+
+
 
 # html_favicon = "_static/favicon.ico"
 #  change this to change the site title
