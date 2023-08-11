@@ -53,8 +53,6 @@ html_theme_options = {
   "instagram_url": "https://instagram.com/fancy_pizza125",
   "search_bar_text": "Search this site...",
 }
-<i class="fa-solid fa-camera"></i>
-
 
 
 
