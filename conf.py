@@ -97,19 +97,19 @@ panels_add_bootstrap_css = False
 
 # MyST config
 myst_enable_extensions = [
-    # "amsmath",
+    "amsmath",
     "colon_fence",
     "deflist",
     "dollarmath",
     "fieldlist",
     "html_admonition",
     "html_image",
-    # "attrs_block",
+    "attrs_block",
     "replacements",
     "smartquotes",
     "strikethrough",
     "substitution",
-    # "tasklist",
+    "tasklist",
 ]
 
 def setup(app):
