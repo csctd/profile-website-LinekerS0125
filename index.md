@@ -1,9 +1,8 @@
-# Page Title
+# Welcome to my Site!
 
-A short introduction for the top of your main page
+Hey my names Lineker Sanchez and this is my pretty empty website :)
 
 
-More content you want on your page
 
 
 
