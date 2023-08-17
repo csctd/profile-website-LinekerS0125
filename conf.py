@@ -50,7 +50,7 @@ with open ('info.yml','r') as f:
 
 html_theme_options = {
   "github_url": "https://github.com/LinekerS0125/",
-  "instagram_url": "https://instagram.com/fancy_pizza125",
+  "twitter_url": "https://instagram.com/fancy_pizza125",
   "search_bar_text": "Search this site...",
 }
 
@@ -103,7 +103,7 @@ myst_enable_extensions = [
     "fieldlist",
     "html_admonition",
     "html_image",
-    "attrs_block",
+    # "attrs_block",
     "replacements",
     "smartquotes",
     "strikethrough",

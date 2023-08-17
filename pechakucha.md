@@ -26,7 +26,7 @@
 ```{card} 
 :class-card: slide
 
-![fourth](_static/img/IMG-77665.jpg)
+![fourth](_static/img/IMG-7665.jpg)
 ```
 
 ```{card} 
@@ -62,7 +62,7 @@
 ```{card} 
 :class-card: slide
 
-![tenth](_static/img/IMG-8429(1).jpg)
+![tenth](_static/img/IMG-8429.jpg)
 ```
 
 ```{card} 
